@@ -14,7 +14,7 @@ Você deverá criar uma aplicação frontend que:
 
 ## **🔧 API Recomendada**  
 Use a **[JSONPlaceholder](https://jsonplaceholder.org/)**, uma API fake para testes:  
-🔹 **Endpoint:** `https://jsonplaceholder.typicode.com/posts`  
+🔹 **Endpoint:** `https://jsonplaceholder.org/posts`  
 🔹 **Retorna:** Lista de posts (título, corpo e ID)  
 
 ---
