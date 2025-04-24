@@ -42,8 +42,7 @@ Use a **[JSONPlaceholder](https://jsonplaceholder.org/)**, uma API fake para tes
   - `headers` (opcional, para definir `Content-Type: application/json`)  
 
 ❓ **Como aprender isso?**  
-📌 **Documentação do Axios:** [axios-http.com/docs/intro](https://axios-http.com/docs/intro)  
-📌 **Vídeo Recomendado:** [Configurando Axios no React](https://www.youtube.com/watch?v=7f-71kYhK00)  
+📌 **Documentação do Axios:** [axios-http.com/docs/intro](https://axios-http.com/docs/instance)
 
 ---
 
@@ -61,8 +60,8 @@ Use a **[JSONPlaceholder](https://jsonplaceholder.org/)**, uma API fake para tes
    - **Sucesso:** Renderize os posts em uma lista  
 
 ❓ **Como aprender isso?**  
-📌 **Vídeo:** [Consumindo API com React + Axios](https://www.youtube.com/watch?v=5LTZ2Zqzya8)  
-📌 **Artigo:** [Como usar Axios com React](https://blog.logrocket.com/axios-react-beginner-guide/)  
+📌 **Artigo:** [Consumindo uma API com React.JS e Axios](https://www.devmedia.com.br/consumindo-uma-api-com-react-js-e-axios/42900)
+📌 **Vídeo:** [Consumindo API com React + Axios](https://www.youtube.com/watch?v=DaVx0R0c5ls)
 
 ---
 
